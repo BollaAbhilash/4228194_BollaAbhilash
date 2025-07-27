@@ -1,6 +1,3 @@
-# \# 4228194\_BollaAbhilash
+# 4228194_BollaAbhilash
 
-
-
-!\[Great Learning Certificate](SDLC/Sdlc.jpg)
-
+![Great Learning Certificate](SDLC/Sdlc.jpg)
