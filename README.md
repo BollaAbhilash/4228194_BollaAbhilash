@@ -4,4 +4,4 @@
 
 ![Git Simple Learn Certificate](Git/Git_simplelearn_certificate.jpg)
 
-![Linux Commands](Linux/linux%20comands%202.jpg)
+![Linux Commands](Linux/linux%20commands.png)
